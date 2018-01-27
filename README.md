@@ -2,6 +2,8 @@
 
 ### When you research Currency your Merchants gain the ability to create a currency.
 	-Much like the Religion creation system
+hjsdkfhjasdkfhjkashdfjkashfdkjasdhfjkashdfjkhsadjkfhjskdafhjkasdhfjkhdsjkfhjkashfjksahdjfkhas
+
 
 	Currency Base (9)
 	1. Gem Based: +1 Gold from all Gem resources.
