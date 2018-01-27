@@ -1,10 +1,10 @@
 ## ECON OVERHAUL MOD
 
-When you research Currency your Merchants gain the ability to create a currency.
+### When you research Currency your Merchants gain the ability to create a currency.
 	-Much like the Religion creation system
 
 	Currency Base (9)
-	1. Gem Based: +1 Gold from all Gem resources.	
+	1. Gem Based: +1 Gold from all Gem resources.
 	2. Fur Based: +1 Gold from all Fur resources.
 	3. Ivory Based: +1 Gold from all Ivory resources.
 	4. Incense Based: +1 Gold from all Incense resources.
@@ -25,7 +25,7 @@ When you research Currency your Merchants gain the ability to create a currency.
 	8. Denarius: Gold bonuses?
 	9. Reserves: maintaining a gold balance over 100 gold grants 1 happiness and 1 additional happiness per 100 gold. (maybe +2 happiness for 5 times gpt?)
 
-	
+
 At Economics, you gain the ability to build the Central Bank (National Wonder).
 	-This allows you to set the monetary policy for your civilization which is an enhancement to your currency.
 
@@ -40,11 +40,11 @@ At Economics, you gain the ability to build the Central Bank (National Wonder).
 	8. Monetarism: 20% less inflation from purchases in cities
 	9. Socialism: -gold +food & production
 
-At Electricity, you may build a stock exchange (becomes national wonder) which enhances your currency yet again. 
+At Electricity, you may build a stock exchange (becomes national wonder) which enhances your currency yet again.
 	-Vanilla Stock Exchange is replaced with the ___________ building.
 
 	Stock Exchange Enhancers (name your stock exchange) (9)
-	1. Reserve Currency: currency strength modifier	
+	1. Reserve Currency: currency strength modifier
 	2. Petro Dollar: +1% currency strength for every Oil resource
 	3. Monetary Union: city state stuff
 	4. Beggar Thy Neighbor: hurt others for slight- zero cost (opportunity cost perhaps) nerfs trade agreements and or disallows them?
@@ -58,8 +58,8 @@ Comparing and competing global economies should be a thing
 Trade Agreements become the economic version of of research agreements
 Trade routes spread currency use
 Global Currency World Congress Resolution
-Ideology somehow linked - 
-	Order requires communism, protectionist or socialism? 
+Ideology somehow linked -
+	Order requires communism, protectionist or socialism?
 	Autocracy can be Keynesian, Socialist, Protectionist, Monetarist?
 	Freedom can be Monetarist, Neoliberal, Keynesian, Mercantilist
 Inflation for spending gold to make gold spending a risk reward system
@@ -73,7 +73,3 @@ Freedom: Laissez Faire, Keynesian, and Monetarism
 Order: Marxism, Leninism, Protectionism
 
 Autocracy: National Socialism, Mercantilism, Colonialism
-
-
-
-
