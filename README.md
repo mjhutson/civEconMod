@@ -2,7 +2,7 @@
 
 ### When you research Currency your Merchants gain the ability to create a currency.
 	-Much like the Religion creation system
-	
+
 	Currency Base (9)
 	1. Gem Based: +1 Gold from all Gem resources.
 	2. Fur Based: +1 Gold from all Fur resources.
@@ -25,6 +25,11 @@
 	8. Denarius: Gold bonuses?
 	9. Reserves: maintaining a gold balance over 100 gold grants 1 happiness and 1 additional happiness per 100 gold. (maybe +2 happiness for 5 times gpt?)
 
+### Currency Mechanics
+	Currencies compete much like religions, however they don't spread like religions from city to city. I was thinking of several metrics that determine currency strength while also providing benefits.
+	1. Inflation: increases everytime a player purchases anything in a city. Has a passive decrease applied that can be boosted through currency enhancements
+	2. Purchasing Power: influences prices of anything bought in cities (so high power equates to % off units/buildings) relies on factors such as GPT, inflation rate, trade route strength (ie balance of trade)
+	3. Exchange rates: Purchasing power parity can create a comparison system that allows a visual representation of the best global economies
 
 At Economics, you gain the ability to build the Central Bank (National Wonder).
 	-This allows you to set the monetary policy for your civilization which is an enhancement to your currency.
