@@ -61,10 +61,10 @@ Additionally, the economics overview screen indicated currency strength movement
 	7. Free Trade Agreements: bonuses to trade agreements
 
 ### World Congress Additions/Changes
-Breton Woods Conference (International Project): invest hammers to win one of three bonuses
-	1. Hosted Conference: 50% increase in purchasing power
-	2. Developed Economic Systems: Balance of Trade modifier
-	3. Attended Conference: 10% inflation reduction
+	Breton Woods Conference (International Project): invest hammers to win one of three bonuses
+		1. Hosted Conference: 50% increase in purchasing power
+		2. Developed Economic Systems: Balance of Trade modifier
+		3. Attended Conference: 10% inflation reduction
 
 Global Currency Resolution: One player's currency is proposed as a global currency. The global currency is granted 100% increase in purchasing power
 
