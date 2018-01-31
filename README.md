@@ -59,6 +59,8 @@ Additionally, the economics overview screen indicated currency strength movement
 	5. Welfare State: cost gold give happiness and food
 	6. Currency Devaluation: lose currency strength gain gold? Production? Trade Routes?
 	7. Free Trade Agreements: bonuses to trade agreements
+	8. Multinational Corporations:
+	9. Dirigism: post WW2 mixed economic concept
 
 ### World Congress Additions/Changes
 	Breton Woods Conference (International Project): invest hammers to win one of three bonuses
@@ -80,3 +82,11 @@ Freedom: Laissez Faire, Keynesian, and Monetarism
 Order: Marxism, Leninism, Protectionism
 
 Autocracy: National Socialism, Mercantilism, Colonialism
+
+### Existing Social Policies and Ideologies that will need changes
+The following already exist and are being added as enhancers above
+- Mercantilism and Protectionism under the Commerce tree
+- Capitalism and Economic Union under Freedom
+- Universal Healthcare under Order and Autocracy
+
+Also in general a rework of several social policy trees and Ideologies may be necessary
