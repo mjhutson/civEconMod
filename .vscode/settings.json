@@ -1,4 +1,5 @@
 {
     "editor.fontSize": 11,
-    "editor.fontFamily": "Menlo"
+    "editor.fontFamily": "Menlo",
+    "editor.renderWhitespace": "all"
 }
