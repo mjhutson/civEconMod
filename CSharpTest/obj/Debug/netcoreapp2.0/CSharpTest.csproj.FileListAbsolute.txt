@@ -1,0 +1,10 @@
+/Users/matthewhutson/Documents/GitHub/civEconMod/CSharpTest/bin/Debug/netcoreapp2.0/CSharpTest.deps.json
+/Users/matthewhutson/Documents/GitHub/civEconMod/CSharpTest/bin/Debug/netcoreapp2.0/CSharpTest.runtimeconfig.json
+/Users/matthewhutson/Documents/GitHub/civEconMod/CSharpTest/bin/Debug/netcoreapp2.0/CSharpTest.runtimeconfig.dev.json
+/Users/matthewhutson/Documents/GitHub/civEconMod/CSharpTest/bin/Debug/netcoreapp2.0/CSharpTest.dll
+/Users/matthewhutson/Documents/GitHub/civEconMod/CSharpTest/bin/Debug/netcoreapp2.0/CSharpTest.pdb
+/Users/matthewhutson/Documents/GitHub/civEconMod/CSharpTest/obj/Debug/netcoreapp2.0/CSharpTest.csproj.CoreCompileInputs.cache
+/Users/matthewhutson/Documents/GitHub/civEconMod/CSharpTest/obj/Debug/netcoreapp2.0/CSharpTest.AssemblyInfoInputs.cache
+/Users/matthewhutson/Documents/GitHub/civEconMod/CSharpTest/obj/Debug/netcoreapp2.0/CSharpTest.AssemblyInfo.cs
+/Users/matthewhutson/Documents/GitHub/civEconMod/CSharpTest/obj/Debug/netcoreapp2.0/CSharpTest.dll
+/Users/matthewhutson/Documents/GitHub/civEconMod/CSharpTest/obj/Debug/netcoreapp2.0/CSharpTest.pdb
